@@ -1,0 +1,41 @@
+﻿  Features.cpp
+C:\Users\Murat\Desktop\Yeni klasör (2)\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': hiçbir değişken bildirimi yapılmadığında 'CBone' solunda yoksayılır
+  ('Cheat/Features.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Murat\Desktop\Yeni klasör (2)\FiveM-External\Cheat\Features.cpp(6,6): warning C4273: 'mouse_event': tutarsız dll bağlantısı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winuser.h(6102,1):
+      önceki 'mouse_event' tanımına bakın
+  
+  Render.cpp
+C:\Users\Murat\Desktop\Yeni klasör (2)\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': hiçbir değişken bildirimi yapılmadığında 'CBone' solunda yoksayılır
+  ('Cheat/Render.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Murat\Desktop\Yeni klasör (2)\FiveM-External\Cheat\Render.cpp(514,63): warning C4244: 'bağımsız değişken': 'LONG' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Desktop\Yeni klasör (2)\FiveM-External\Cheat\Render.cpp(547,100): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Desktop\Yeni klasör (2)\FiveM-External\Cheat\Render.cpp(547,80): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Desktop\Yeni klasör (2)\FiveM-External\Cheat\Render.cpp(550,83): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  CPed.cpp
+C:\Users\Murat\Desktop\Yeni klasör (2)\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': hiçbir değişken bildirimi yapılmadığında 'CBone' solunda yoksayılır
+  ('Cheat/SDK/CPed/CPed.cpp' kaynak dosyası derleniyor)
+  
+  GameSDK.cpp
+C:\Users\Murat\Desktop\Yeni klasör (2)\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': hiçbir değişken bildirimi yapılmadığında 'CBone' solunda yoksayılır
+  ('Cheat/SDK/Game/GameSDK.cpp' kaynak dosyası derleniyor)
+  
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\Murat\Desktop\Yeni klasör (2)\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': hiçbir değişken bildirimi yapılmadığında 'CBone' solunda yoksayılır
+  ('main.cpp' kaynak dosyası derleniyor)
+  
+  Overlay.cpp
+  Globals.cpp
+  Memory.cpp
+  Kod Üretiliyor...
+     C:\Users\Murat\Desktop\Yeni klasör (2)\x64\Debug\FiveM-External.lib kitaplığı ve C:\Users\Murat\Desktop\Yeni klasör (2)\x64\Debug\FiveM-External.exp nesnesi oluşturuluyor
+  FiveM-External.vcxproj -> C:\Users\Murat\Desktop\Yeni klasör (2)\x64\Debug\FiveM-External.exe
